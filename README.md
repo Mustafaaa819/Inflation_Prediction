@@ -1,4 +1,4 @@
-📊 ## Inflation Prediction with Regression Models
+📊 **Inflation Prediction with Regression Models**
 
 This project is all about predicting inflation in Pakistan using different regression techniques.
 I’ve tried Linear Regression, Polynomial Regression, and Random Forest Regression to see which one gives better and more accurate predictions.
@@ -25,11 +25,8 @@ Gave me the most accurate results compared to linear and polynomial.
 ![Random_Forest_Regression.png](Random_Forest_Regression.png)
 
 📂 Files in This Project
-
 inflation.csv → dataset used.
-
 inflation_prediction.py → main Python code.
-
 Graphs are generated inside the script.
 
 🔮 Results
@@ -37,9 +34,6 @@ Linear Regression: basic, not very accurate.
 Polynomial Regression: better, fits the curve but still limited.
 Random Forest Regression: most accurate, captures real patterns in inflation.
 
-📌 Next Steps
-Try more advanced models (XGBoost, LSTM).
-Add more features (like oil prices, GDP, etc.) for even better accuracy.
 
 👉 Simple project, but shows how different regression models perform on real-world data like inflation.
 
