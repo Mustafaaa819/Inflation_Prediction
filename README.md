@@ -9,17 +9,20 @@ I’ve tried Linear Regression, Polynomial Regression, and Random Forest Regress
 Straight line approach.
 Easy to apply but inflation data is not always linear.
 Works okay but not the best for this type of data.
+![Linear_Regression.png](Linear_Regression.png)
 
 2. Polynomial Regression
 Tries to fit a curve instead of a straight line.
 Captures ups and downs in the data better than linear.
 Still not perfect when data is very irregular.
+![polynomial_regression.png](polynomial_regression.png)
 
 3. Random Forest Regression
 Machine learning based.
 Works with multiple decision trees and combines them.
 Much better at handling non-linear patterns in inflation data.
 Gave me the most accurate results compared to linear and polynomial.
+![Random_Forest_Regression.png](Random_Forest_Regression.png)
 
 📂 Files in This Project
 
@@ -41,3 +44,4 @@ Add more features (like oil prices, GDP, etc.) for even better accuracy.
 👉 Simple project, but shows how different regression models perform on real-world data like inflation.
 
 # Made By mustafaaa
+
