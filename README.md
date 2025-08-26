@@ -1,4 +1,4 @@
-📊 Inflation Prediction with Regression Models
+📊 ## Inflation Prediction with Regression Models
 
 This project is all about predicting inflation in Pakistan using different regression techniques.
 I’ve tried Linear Regression, Polynomial Regression, and Random Forest Regression to see which one gives better and more accurate predictions.
